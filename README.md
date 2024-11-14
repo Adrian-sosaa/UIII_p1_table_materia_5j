@@ -7,3 +7,8 @@ CRUD de la tabla materia create-crear read_leer Update_Actualizar
 ## guardar registro
 -![image](https://github.com/user-attachments/assets/9402b4db-0cdc-4436-bf5d-4db56269c7d5)
 
+## final
+
+![image](https://github.com/user-attachments/assets/701ffed5-bbfd-449b-9545-9e5e2e3d4f1e)
+
+
